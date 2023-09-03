@@ -26,6 +26,7 @@
 - [Harpreet Singh Sahota](https://github.com/happysahota)
 - [kevin1010607](https://github.com/kevin1010607)
 - [Anuj Mohite](https://github.com/anujrmohite)
+  [kmrivera]
 - [double835](https://github.com/double835)
 - [Tasneem Ayham](https://github.com/Coding-Queen89/)
 - [Robert McCall](https://github.com/Polderrider)
@@ -115,7 +116,6 @@
 - [Pratap Singh Sisodia](https://github.com/prataps135)
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
-  [rivera]
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
 - [Enikuomehin David](https://github.com/eniiku)
